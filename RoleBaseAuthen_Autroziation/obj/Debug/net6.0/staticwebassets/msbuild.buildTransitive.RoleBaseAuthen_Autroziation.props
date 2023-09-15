@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RoleBaseAuthen_Autroziation.props" />
+</Project>
